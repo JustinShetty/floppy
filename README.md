@@ -1,2 +1,2 @@
 # Floppy
-A library for precise control of Floppy drives through an Arduino
+A library for playing tones on floppy drives
